@@ -1,0 +1,13 @@
+# Data
+data/
+output/
+*.csv
+*.log
+*.tif
+*.shp
+
+# System
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env

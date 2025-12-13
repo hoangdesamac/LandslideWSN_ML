@@ -1,0 +1,16 @@
+name: ai_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - pip
+  - pip:
+    - pynvim
